@@ -4,6 +4,6 @@
 
 | You can       | 
 | ------------- |
-| Get strong password in seconds :white_check_mark: |
-| Pin exe in windows menu :white_check_mark: |
-| No interface :white_check_mark: |
+| Create strong password in seconds. :white_check_mark: |
+| Pin .exe in windows menu to easy access.:white_check_mark: |
+| No interface. Just copy.:white_check_mark: |
