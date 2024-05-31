@@ -3,6 +3,6 @@
 
 | You can       | 
 | ------------- |
-| Get strong password in seconds |
-| Pin exe in windows menu |
-| No interface |
+| Get strong password in seconds :white_check_mark: |
+| Pin exe in windows menu :white_check_mark: |
+| No interface :white_check_mark: |
