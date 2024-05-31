@@ -1,5 +1,4 @@
-# password-generator 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Password-generator <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ## Quick one click .exe generate and copy password to clipboard!
 
 | You can       | 
