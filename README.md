@@ -9,3 +9,6 @@
 | No interface. Just copy. :white_check_mark: |
 
 Don't forget to install clipboard module.
+```py
+pip install clipboard
+```
