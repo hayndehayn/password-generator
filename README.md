@@ -4,9 +4,9 @@
 
 | You can       | 
 | ------------- |
-| Create strong password in seconds. :white_check_mark: |
-| Pin .exe in windows menu for easy access. :white_check_mark: |
-| No interface. Just copy. :white_check_mark: |
+| :white_check_mark: Create strong password in seconds. |
+| :white_check_mark: Pin .exe in windows menu for easy access. |
+| :white_check_mark: No interface. Just copy. |
 
 Don't forget to install clipboard module.
 ```py
